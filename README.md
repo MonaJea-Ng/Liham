@@ -8,9 +8,6 @@ A web-based platform designed to foster open, respectful, and meaningful discuss
 - **Backend:** Django + Django REST Framework
 - **Database:** SQLite 
 
-## Developing
-== I'll add here ==
-
 ## Features
 
 - **Feed:** See latest discussion across every board!~
