@@ -1,7 +1,7 @@
 # Liham
 A web-based platform designed to foster open, respectful, and meaningful discussions among university students.
 
-![23](https://github.com/user-attachments/assets/6deb0df3-08f9-4cac-9bdc-283eb86bee88)
+![Liham Overview](https://github.com/user-attachments/assets/7d0e430c-c808-4468-8f1b-f6fb3e36b38c)
 
 ## Tech Stack
 - **Frontend:** Next.js, SaaS
@@ -13,18 +13,23 @@ A web-based platform designed to foster open, respectful, and meaningful discuss
 
 ## Features
 
-- Feed: see latest discussion across every universities etc"
-![Feed](https://github.com/user-attachments/assets/733c9da1-986e-409b-8670-19dc46efcb60)
+**Feed:** See latest discussion across every board!~
 
-- Boards: "you could say, "browse with different school boards and explore threads"
-![Boards](https://github.com/user-attachments/assets/1d8b43f6-f2a7-441c-a019-a6bf02961b81)
+![Feed](https://github.com/user-attachments/assets/84ffbaa4-aa25-4621-af30-3b9b10f8f598)
 
-- Threads: "you could say: discuss your thoughts by expressing your opinion something something"
-![Thread](https://github.com/user-attachments/assets/a00baa90-7e68-439e-8d6c-a0db1b2ff354)
+
+**Boards:** Browse topic-based boards and explore threads that match your academic and social interests.
+
+![Board](https://github.com/user-attachments/assets/338e9732-197a-4703-9f6a-85d469a7a767)
+
+
+**Threads:**  Post your thoughts, ask questions, or simply join the conversation.
+
+![Thread](https://github.com/user-attachments/assets/b7eb5dab-037f-49f1-b9c9-e30897be1add)
 
 
 ## In memoriam/special thanks
-This project has been made in partial fulfillment of the course requirement in Design and Analysis of Algorithms. We would like thank our professor, Ms. Mary Jane Tan, for teaching us the lessons and guiding us in this project.
+This project has been made in partial fulfillment of the course requirement in Design and Analysis of Algorithms. We would like to thank our professor, Ms. Mary Jane Tan, for teaching us the lessons and guiding us in this project.
 
 ## Team
 Monika Jea Ng - PM, UI/UX
